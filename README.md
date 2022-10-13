@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 <div>
   <a href="https://github.com/simonerfreitas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=simonerfreitas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </div>
+    </div>
+  
+
   
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
@@ -32,8 +34,9 @@ Here are some ideas to get you started:
   <img align="center" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
   <img align="center" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">  
   <img align="center" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-    
-##
+  <img align="right" alt="via GIPHY" src="https://giphy.com/gifs/star-wars-yoda-the-force-UsmcxQeK7BRBK">
+
+ ##
   
 <div>
   <a href="https://www.youtube.com/channel/UCXCnQgAMR8Tk8eRPGkQ9Sqw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
