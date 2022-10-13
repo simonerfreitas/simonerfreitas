@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <img align="center" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
   <img align="center" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">  
   <img align="center" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img align="right" alt="via GIPHY" src="https://media.giphy.com/media/UsmcxQeK7BRBK/giphy.gif">
+  <img align="right" height="250" width="150" alt="via GIPHY" src="https://media.giphy.com/media/UsmcxQeK7BRBK/giphy.gif">
 
 ##
   
