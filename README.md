@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Olá! Eu sou a Simone R. Freitas 👋
+## Olá! Eu sou Simone R. Freitas 👋
 
 - 🔭 Sou professora da Universidade Federal da UFABC (Santo André, SP, Brasil)
 - ✉  Contato: simonerfreitas.ufabc@gmail.com 
