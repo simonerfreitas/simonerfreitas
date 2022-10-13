@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/simonerfreitas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=simonerfreitas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=simonerfreitas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </div>
   
 <div style="display: inline_block"><br>
