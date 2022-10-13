@@ -32,8 +32,8 @@ Here are some ideas to get you started:
   <img align="center" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
   <img align="center" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">  
   <img align="center" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img align="right" height="150" width="250" alt="via GIPHY" src="https://media.giphy.com/media/UsmcxQeK7BRBK/giphy.gif">
-
+</div>
+  
 ##
   
 <div>
@@ -44,7 +44,6 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/simonerfreitas" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.tiktok.com/@simonerfreitas" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a> 
   <a href = "mailto:simonerfreitas.ufabc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-      
 </div>
 
-![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
+  <img align="right" height="150" width="250" alt="via GIPHY" src="https://media.giphy.com/media/UsmcxQeK7BRBK/giphy.gif">
