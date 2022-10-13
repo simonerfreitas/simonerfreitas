@@ -46,4 +46,8 @@ Here are some ideas to get you started:
   <a href = "mailto:simonerfreitas.ufabc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-  <img align="right" height="150" width="250" alt="via GIPHY" src="https://media.giphy.com/media/UsmcxQeK7BRBK/giphy.gif">
+  ######
+  
+  <img align="center" height="150" width="250" alt="via GIPHY" src="https://media.giphy.com/media/UsmcxQeK7BRBK/giphy.gif">
+  
+  
